@@ -15,8 +15,8 @@ CSS Modules
 
 📦 Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/react-weather-app.git
-cd react-weather-app
+git clone https://github.com/Himanshu6848/Weather-App-using-React.git
+cd mini-project-react
 
 2️⃣ Install dependencies
 npm install
